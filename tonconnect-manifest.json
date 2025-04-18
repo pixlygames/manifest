@@ -1,7 +1,7 @@
 {
     "url": "https://pixly.games",
     "name": "PIXLY GAMES",
-    "iconUrl": "https://github.com/pixlygames/manifest/blob/5a5eda9d2ec0ea2e0bf296547f6e5239d0ead24e/logo.PNG",
+    "iconUrl": "https://raw.githubusercontent.com/pixlygames/manifest/b34e5eb1874dc56a8a07000062e1ff0a2fac221d/logo.PNG",
     "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
     "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
   }
